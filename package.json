@@ -23,7 +23,7 @@
         "@fortawesome/fontawesome-free": "^5.10.2",
         "bootstrap-vue": "^2.0.0-rc.28",
         "es6-promise": "^4.2.8",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "moment": "^2.24.0",
         "toastr": "^2.1.4",
         "vue": "^2.6.10",
